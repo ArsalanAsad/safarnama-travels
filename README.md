@@ -2,7 +2,7 @@
 
 A modern, fully responsive travel agency website built with **Next.js (App Router)**, **Tailwind CSS** and **GSAP**. It offers four services: **Visa Services, Flight Ticket Booking, Hotel Booking and Car Rental**. There is no backend; all searches run on mock data.
 
-**Live demo:** [https://safarnama-travels.vercel.app/)]*
+**Live demo:** https://safarnama-travels.vercel.app/
 
 ## Features
 
