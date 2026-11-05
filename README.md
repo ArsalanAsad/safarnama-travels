@@ -4,6 +4,8 @@ A modern, fully responsive travel agency website built with **Next.js (App Route
 
 **Live demo:** https://safarnama-travels.vercel.app/
 
+![Safarnama Travels preview](public/screenshot.png)
+
 ## Features
 
 - Responsive layout for mobile, tablet and desktop, with a collapsible mobile menu
@@ -27,7 +29,7 @@ A modern, fully responsive travel agency website built with **Next.js (App Route
 Requirements: **Node.js 18.17 or newer** and npm.
 
 ```bash
-git clone https://github.com/<your-username>/safarnama-travels.git
+git clone https://github.com/ArsalanAsad/safarnama-travels.git
 cd safarnama-travels
 npm install
 npm run dev
@@ -82,3 +84,7 @@ Elements marked with these attributes are picked up by `components/Animations.js
 ## Notes
 
 All names, prices, reviews and contact details are placeholders. Booking and contact forms are demos and send nothing.
+
+## Author
+
+   **Arsalan Asad**: [GitHub](https://github.com/ArsalanAsad) | [LinkedIn](www.linkedin.com/in/arsalan-asad-86a695b6)
