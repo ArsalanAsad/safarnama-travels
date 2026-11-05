@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+
+/* Hidden until GSAP reveals them (see components/Animations.js) */
+[data-hero], [data-stamp], [data-reveal] { opacity: 0; }
+
+:focus-visible { outline: 2px solid #F2B134; outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  [data-hero], [data-stamp], [data-reveal] { opacity: 1; }
+}
